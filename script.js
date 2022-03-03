@@ -7,7 +7,7 @@ function login() {
     str = pass.toString().value;
     
     if (user == 'be' && pass == 'welcome') {
-       window.location.href = "index2.html";}
+       window.location.href = "i2.html";}
        
        else {
         
